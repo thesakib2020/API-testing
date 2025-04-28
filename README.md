@@ -1,6 +1,7 @@
 # Simple Book Project
 
 Feature: Search and order a book
+
 Testing Scope: API Testing
 
 ## Author
