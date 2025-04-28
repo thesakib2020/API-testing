@@ -1,14 +1,18 @@
-# Simple Book Project
+# Book Ordering Project
 
-Feature: Search and order a book
+Feature: 
+* Search for a book
+* Order a book
+* Delete a book
 
-Testing Scope: API Testing
+Testing Scope: 
+* API Testing
 
 ## Author
-- [@sakib](https://github.com/thesakib2020)
+- [Mohammad Sakib Ahsan](https://github.com/thesakib2020)
 
-## Project
-We have a library which holds a few fiction and non-fiction books. This API allows you to reserve a book.
+## Project Details
+We have a library which holds a few fiction and non-fiction books. This API testing is done to search and order a book. You can also update a book details, delete your order using APIs.
 
 ## Clone Locally
 ```bash
